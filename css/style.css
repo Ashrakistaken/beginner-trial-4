@@ -145,8 +145,8 @@ a:hover {
     height: auto;
     object-fit: cover;
     position: relative;
-    left: 4rem;
-    top: 9rem;
+    left: 10%;
+    top: 25%;
 }
 
 .lemon-img-div {
